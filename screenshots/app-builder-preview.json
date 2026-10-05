@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "KAARA Bench",
+      "hasCanvas": false,
+      "bodyTextLen": 1960,
+      "bodyTextHash": "de754c34c1a76bcaa2bcc25d223321ea500b47e267f7335df523373401d679bc",
+      "bodyTextPrefix": "350 W WALL-LESS HET KAARA Bench Argon LaB₆ hollow cathode — orif",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "KAARA Bench",
+      "hasCanvas": false,
+      "bodyTextLen": 1960,
+      "bodyTextHash": "de754c34c1a76bcaa2bcc25d223321ea500b47e267f7335df523373401d679bc",
+      "bodyTextPrefix": "350 W WALL-LESS HET KAARA Bench Argon LaB₆ hollow cathode — orif",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
